@@ -10,4 +10,4 @@
 
 <h3>Link do projeto já hospedado</h3>
 
-<a href="https://lucaskawatoko.github.io/tela-de-login/">https://lucaskawatoko.github.io/tela-de-login/</a>
+<a href="https://lucaskawatoko.github.io/tela-de-login/" target="_blank">https://lucaskawatoko.github.io/tela-de-login/</a>
